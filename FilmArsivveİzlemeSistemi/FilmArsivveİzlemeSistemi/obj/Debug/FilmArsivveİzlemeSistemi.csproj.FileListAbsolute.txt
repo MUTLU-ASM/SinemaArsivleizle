@@ -1,0 +1,11 @@
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\FilmArsivveİzlemeSistemi\FilmArsivveİzlemeSistemi\obj\Debug\FilmArsivveİzlemeSistemi.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\FilmArsivveİzlemeSistemi\FilmArsivveİzlemeSistemi\obj\Debug\FilmArsivveİzlemeSistemi.frmFilm.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\FilmArsivveİzlemeSistemi\FilmArsivveİzlemeSistemi\obj\Debug\FilmArsivveİzlemeSistemi.Properties.Resources.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\FilmArsivveİzlemeSistemi\FilmArsivveİzlemeSistemi\obj\Debug\FilmArsivveİzlemeSistemi.csproj.GenerateResource.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\FilmArsivveİzlemeSistemi\FilmArsivveİzlemeSistemi\obj\Debug\FilmArsivveİzlemeSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\FilmArsivveİzlemeSistemi\FilmArsivveİzlemeSistemi\bin\Debug\FilmArsivveİzlemeSistemi.exe.config
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\FilmArsivveİzlemeSistemi\FilmArsivveİzlemeSistemi\bin\Debug\FilmArsivveİzlemeSistemi.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\FilmArsivveİzlemeSistemi\FilmArsivveİzlemeSistemi\bin\Debug\FilmArsivveİzlemeSistemi.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\FilmArsivveİzlemeSistemi\FilmArsivveİzlemeSistemi\obj\Debug\FilmArsivveİzlemeSistemi.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\FilmArsivveİzlemeSistemi\FilmArsivveİzlemeSistemi\obj\Debug\FilmArsivveİzlemeSistemi.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\FilmArsivveİzlemeSistemi\FilmArsivveİzlemeSistemi\obj\Debug\FilmArsivveİzlemeSistemi.frmTamEkran.resources
